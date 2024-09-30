@@ -178,7 +178,7 @@ nav{
     content: "Charcole ";
 }
 .portfolio_card:nth-child(2)::after{
-    content: "Pencile";
+    content: "Pencil";
 }
 .portfolio_card:nth-child(3)::after{
     content: "Sketch ";
